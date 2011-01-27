@@ -1,0 +1,9 @@
+[user]
+	email = aaron@groupcard.com
+	name = Aaron Staves
+[color]
+	ui = true
+	status = auto
+	interactive = auto
+	diff = auto
+	branch = auto

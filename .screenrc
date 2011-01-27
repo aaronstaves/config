@@ -1,0 +1,1 @@
+caption always "%{= KC}$USER@$HOST %{= KY}: %{= KW}%-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<"
