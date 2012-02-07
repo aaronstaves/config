@@ -1,6 +1,6 @@
 [user]
-	email = aaron@groupcard.com
-	name = Aaron Staves
+	#email = [email here]
+	#name = [name here] 
 [color]
 	ui = true
 	status = auto
